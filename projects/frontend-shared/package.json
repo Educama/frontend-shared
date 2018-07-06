@@ -1,0 +1,22 @@
+{
+  "name": "educama-frontend-shared",
+  "version": "1.0.0",
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0",
+    "@ngrx/store": "^6.0.1",
+    "@ngx-translate/core": "^10.0.2",
+    "@ngx-translate/http-loader": "^3.0.1",
+    "moment": "^2.22.2",
+    "post-robot": "^8.0.26",
+    "primeng": "^6.0.2",
+    "zalgo-promise": "^1.0.28"
+  },
+  "publishConfig": {
+    "registry": "https://educama.jfrog.io/educama/api/npm/npm/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Educama/frontend-shared"
+  }
+}
